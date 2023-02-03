@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 
+![thoughtworks-gif_dribbble](https://user-images.githubusercontent.com/77968379/216566671-7a229cea-3b62-42d5-829b-66cde828fba4.gif)
+
+
+
 - 🌱 I’m currently learning **iOS Swift** 💻
 
 - 📫 How to reach me **ivan.hirsinger@gmail.com**
