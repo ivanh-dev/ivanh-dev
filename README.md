@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<p align="left"> <a href="https://twitter.com/ihirsinger" target="blank"><img src="https://img.shields.io/twitter/follow/ihirsinger?logo=twitter&style=for-the-badge" alt="ihirsinger" /></a> </p>
 
-- 🌱 I’m currently learning **iOS Swift**
+- 🌱 I’m currently learning **iOS Swift** 💻
 
 - 📫 How to reach me **ivan.hirsinger@gmail.com**
 
